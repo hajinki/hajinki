@@ -13,11 +13,11 @@
 
 ## 📊 GitHub Stats
 ![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajinki&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hajinki&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajinki&layout=compact&theme=tokyonight)
 
-## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=hajinki&theme=tokyonight)
+
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
