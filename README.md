@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajinki&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajinki&layout=compact&theme=tokyonight)
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
