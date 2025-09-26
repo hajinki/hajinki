@@ -11,7 +11,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## 📊 GitHub Stats
-![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajinki&show_icons=true&theme=tokyonight)
+![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajinki&show_icons=true&theme=solarized)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hajinki&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajinki&layout=compact&theme=tokyonight)
