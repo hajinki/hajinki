@@ -11,7 +11,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## 📊 GitHub Stats
-![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajinki&show_icons=true&theme=solarized)
+
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hajinki&theme=solarized)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajinki&theme=solarized)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hajinki&theme=solarized)
