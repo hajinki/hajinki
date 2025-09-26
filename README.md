@@ -20,17 +20,6 @@
 
 
 
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hajinki&theme=tokyonight" width="46%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajinki&theme=tokyonight" width="52%" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hajinki&theme=tokyonight" width="46%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hajinki&theme=tokyonight" width="46%" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hajinki&theme=tokyonight&utcOffset=9" width="94%" />
-
-</div>
 
 
 
