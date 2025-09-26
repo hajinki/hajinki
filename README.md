@@ -13,6 +13,7 @@
 ## 📊 GitHub Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hajinki&theme=solarized)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hajinki&theme=solarized)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajinki&theme=solarized)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hajinki&theme=solarized)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hajinki&theme=solarized&utcOffset=9)
