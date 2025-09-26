@@ -16,12 +16,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajinki&layout=compact&theme=tokyonight)
 
-### GitHub Summary Cards
-![](https://raw.githubusercontent.com/hajinki/hajinki/main/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/hajinki/hajinki/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/hajinki/hajinki/main/profile-summary-card-output/default/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/hajinki/hajinki/main/profile-summary-card-output/default/3-stats.svg)
-![](https://raw.githubusercontent.com/hajinki/hajinki/main/profile-summary-card-output/default/4-productive-time.svg)
+
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hajinki&theme=solarized
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajinki&theme=solarized
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hajinki&theme=solarized
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hajinki&theme=solarized
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hajinki&theme=solarized&utcOffset=9
 
 
 
