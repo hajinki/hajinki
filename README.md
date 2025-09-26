@@ -16,6 +16,31 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajinki&layout=compact&theme=tokyonight)
 
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 매일 00:00 UTC 한 번
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: hajinki            # 본인 username 명시
+          # EXCLUDE: "pull_request"    # 원하면 제외 타입 지정 가능
+          # BRANCH: "main"             # 기본 브랜치 다르면 지정
+          # UTC_OFFSET: "+09:00"       # 한국시간 반영하고 싶으면
 
 
 
