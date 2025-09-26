@@ -12,11 +12,6 @@
 
 ## 📊 GitHub Stats
 ![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajinki&show_icons=true&theme=solarized)
-![GitHub Streak](https://streak-stats.demolab.com/?user=hajinki&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajinki&layout=compact&theme=tokyonight)
-
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hajinki&theme=solarized)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajinki&theme=solarized)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hajinki&theme=solarized)
