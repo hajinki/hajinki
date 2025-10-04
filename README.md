@@ -1,13 +1,32 @@
-# 👋 Hi there, I'm Hajin
+### 👋 Hi there, I'm Hajin Kim!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 **I’m currently working on:**  
+  Developing innovative web and software projects that bridge technology, design, and business — including full-stack web apps and data-driven service prototypes.
+
+- 🌱 **I’m currently learning:**  
+  Advanced Java, Python for AI, full-stack JavaScript (Node.js, Express, React), and system-level programming (C, Pintos OS).
+
+- 👯 **I’m looking to collaborate on:**  
+  Open-source projects and creative tech solutions that combine user experience with impactful problem-solving.
+
+- 🤔 **I’m looking for help with:**  
+  Building scalable architectures, deploying cloud services, and refining UI/UX for real-world applications.
+
+- 💬 **Ask me about:**  
+  Web development, system programming, startup ideas, or how to turn prototypes into real products.
+
+- 📫 **How to reach me:**  
+  [GitHub](https://github.com/hajinki)
+  Email: hajinkim@g,seoultech.ac.kr
+  Phone: 010-7570-4214  
+  
+
+- 😄 **Pronouns:**  
+  she/her
+
+- ⚡ **Fun fact:**  
+  I’m currently obsessed with Korean bone soup (*Haejangguk*) — nothing beats it after a long day of coding 🍲
+
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
