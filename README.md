@@ -16,9 +16,9 @@
   Web development, system programming, startup ideas, or how to turn prototypes into real products.
 
 - 📫 **How to reach me:**  
-  [GitHub](https://github.com/hajinki)
-  Email: hajinkim@g,seoultech.ac.kr
-  Phone: 010-7570-4214  
+  - [GitHub](https://github.com/hajinki)
+  - Email: hajinkim@g.seoultech.ac.kr
+  - Phone: 010-7570-4214  
   
 
 - 😄 **Pronouns:**  
